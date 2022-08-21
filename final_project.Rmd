@@ -19,7 +19,7 @@ It is an R Presentation generated with RStudio.
 
 The Shiny application is available at https://2oc4qc-dodanim-castillo.shinyapps.io/Project_Course/
 
-The Shiny app source code is available at https://github.com/rmsulino/DevelopingDataProducts_CourseProject
+The Shiny app source code is available at https://github.com/dcastillo072/project_final
 
 
 ## Overview
@@ -50,4 +50,4 @@ After choose the dataset, ou can see information like mean and median and some o
 
 Use the Shiny app at https://2oc4qc-dodanim-castillo.shinyapps.io/Project_Course/
 
-Get the app source code at https://github.com/rmsulino/DevelopingDataProducts_CourseProject
+Get the app source code at https://github.com/dcastillo072/project_final
